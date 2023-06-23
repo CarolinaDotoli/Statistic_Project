@@ -400,5 +400,8 @@ png("outputs/Figure5.png", res = 300, width = 3000, heigh = 2000)
 # (percentuale di foglie verdi, che rappresenta proprio le foglie vive) della competizione che si instaura 
 # all'interno di quello stesso habitat. Tuttavia nei diversi anni la dimensione dell'area della zolle di terreno relative alle specie 
 # sono diminuite, e le piante presenti nel trattamento B hanno avuto una riduzione maggiore rispetto a quelle a quelle del 
-# trattamento C, dunque hanno diminuito la loro estensione massima
+# trattamento C, dunque hanno diminuito la loro estensione massima.
+# Possiamo quindi concludere che l'ipotesi del disturbo intermedio è stata confermata, tuttavia 
+# questa non si rispecchia nella dimensione degli individui (estensione in superficie della zolla di terra)
+# i quali sono decresciuti maggiormente.
 
